@@ -1,14 +1,5 @@
-numpy        
-opencv-python      
-pandas             
-requests         
-rsa      
-scipy         
-tensorflow       
-termcolor     
-urllib3   
-Werkzeug    
-asgiref
+opencv-python         
+tensorflow
 Django
 gunicorn
 psycopg2-binary
