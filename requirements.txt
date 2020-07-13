@@ -1,6 +1,6 @@
 opencv-contrib-python
 opencv-python
-protobuf==3.6.0
+protobuf==3.6.1
 tensorflow==2.0.1
 Django
 gunicorn
