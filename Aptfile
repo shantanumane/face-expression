@@ -3,3 +3,5 @@ libxrender1
 libfontconfig1
 libice6
 libSM.so.6
+libxext6
+libxrender-dev
