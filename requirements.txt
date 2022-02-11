@@ -1,5 +1,5 @@
 opencv-python-headless
-protobuf==3.6.1
+protobuf==3.15.0
 tensorflow==2.0.1
 Django
 gunicorn
